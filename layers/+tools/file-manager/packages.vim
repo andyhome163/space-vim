@@ -1,3 +1,4 @@
+MP 'ryanoasis/vim-devicons'
 MP 'danro/rename.vim',               { 'on' : 'Rename' }
 
 " Refer to https://github.com/junegunn/dotfiles  vimrc
