@@ -1,3 +1,4 @@
+MP 'vim-nerdtree-tabs'
 MP 'ryanoasis/vim-devicons'
 MP 'danro/rename.vim',               { 'on' : 'Rename' }
 
